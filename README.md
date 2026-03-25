@@ -2,7 +2,6 @@
 [![Support XeCLI on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/saveeditors)
 
 XeCLI-XellFetch is the standalone companion package for XeCLI's custom XeLL payload and launcher bundle.
-[![Support XeCLI on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/saveeditors)
 
 fetches NAND and keyvault data over the network.
 

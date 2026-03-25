@@ -3,10 +3,11 @@
 # XeCLI-XellFetch
 
 XeCLI-XellFetch is the standalone companion package for XeCLI's custom XeLL payload and launcher bundle.
+[![Support XeCLI on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/saveeditors)
 
-It is called `Fetch` because it fetches NAND and keyvault data over the network.
+fetches NAND and keyvault data over the network.
 
-It includes:
+Includes:
 
 - the current custom `xell.bin` payload that keeps the on-screen `Waiting for XeCLI connection` prompt
 - the `XellLaunch` helper XEX used to chain-load that payload from a running dashboard

@@ -3,7 +3,9 @@
 
 XeCLI-XellFetch is the standalone XeLL payload and launcher bundle used by XeCLI's network fetch workflow.
 
-fetches NAND and keyvault data over the network.
+It fetches NAND and keyvault data over the network.
+
+![XeCLI-XellFetch payload preview](assets/readme/Xeclixell.png)
 
 Includes:
 
